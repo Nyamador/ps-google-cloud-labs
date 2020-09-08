@@ -5,6 +5,7 @@ https://googlepluralsight.qwiklabs.com/focuses/10169034?parent=lti_session
 Create a VPC network and firewall rules
 
 Create VPC network
+
 1.
 
 2. Create Firewall rule
